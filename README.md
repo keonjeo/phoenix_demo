@@ -1,12 +1,14 @@
 # PhoenixDemo
 
-Elixir version:  1.10.2
-Node version: 12.14.1
+### Elixir && Node Version
 
-*Note*  you can use asdf tool to manage your versions of elixir and node
+- Elixir version:   1.10.2
+- Node version:     12.14.1
+
+*Note*  you can use `asdf` tool to manage your versions of elixir and node
 
 
-To start your Phoenix server:
+### To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
@@ -19,7 +21,7 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
 
 
 
-## Learn more
+### Learn more
 
   * Official website: http://www.phoenixframework.org/
   * Guides: http://phoenixframework.org/docs/overview
